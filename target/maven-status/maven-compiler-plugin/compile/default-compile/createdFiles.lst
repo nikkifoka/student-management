@@ -1,0 +1,13 @@
+com\example\student_management\dto\RegisterRequest.class
+com\example\student_management\dto\LoginRequest.class
+com\example\student_management\controller\AuthController.class
+com\example\student_management\security\SecurityConfig.class
+com\example\student_management\entity\User.class
+com\example\student_management\security\JwtService.class
+com\example\student_management\StudentManagementApplication.class
+com\example\student_management\controller\StudentController.class
+com\example\student_management\security\CustomUserDetailsService.class
+com\example\student_management\entity\Student.class
+com\example\student_management\repository\StudentRepository.class
+com\example\student_management\security\JwtAuthenticationFilter.class
+com\example\student_management\repository\UserRepository.class

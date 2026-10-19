@@ -1,0 +1,13 @@
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\controller\AuthController.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\controller\StudentController.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\dto\LoginRequest.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\dto\RegisterRequest.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\entity\Student.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\entity\User.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\repository\StudentRepository.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\repository\UserRepository.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\security\CustomUserDetailsService.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\security\JwtAuthenticationFilter.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\security\JwtService.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\security\SecurityConfig.java
+C:\Users\Dell\Downloads\student-management-main\student-management-main\src\main\java\com\example\student_management\StudentManagementApplication.java
